@@ -51,13 +51,6 @@ This repository is designed for novices who are starting to learn the Kotlin pro
 
 Feel free to fork the repository, make improvements, and submit pull requests.  
 If you find any mistakes or want to suggest topics, open an issue!
-
----
-
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
-
 ---
 
 Happy Coding! 🚀
